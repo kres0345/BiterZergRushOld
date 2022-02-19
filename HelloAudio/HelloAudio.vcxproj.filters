@@ -15,11 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloTriangle.cpp">
+    <ClCompile Include="HelloAudio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="glad.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sound files\biter-death-1.ogg" />
+    <None Include="Sound files\biter-death-2.ogg" />
+    <None Include="Sound files\biter-death-3.ogg" />
+    <None Include="Sound files\biter-death-4.ogg" />
+    <None Include="Sound files\biter-death-5.ogg" />
   </ItemGroup>
 </Project>
