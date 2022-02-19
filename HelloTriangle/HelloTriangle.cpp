@@ -1,6 +1,8 @@
 // HelloTriangle.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+// This is the project I did to become acquainted with OpenGL.
+
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
